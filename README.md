@@ -1,16 +1,48 @@
-### Hi there 👋
+<p align="center">
+ <img src="https://cdn2.vectorstock.com/i/thumb-large/98/46/panda-holding-bamboo-vector-37509846.jpg" width="50" height="50" style="border-radius: 100px" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
 
+### Hi there 👋 I'm Magdy Mohammed
+> Front End Developer
+
+
+<div>
+ <p>
+I am Mid-level Front End Developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+
+I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+</p>
+</div>
+
+### Programming Languages 🌐
+
+ [<img src="https://image.flaticon.com/icons/png/512/1051/1051277.png" alt="Html" width="24">](https://www.w3schools.com/html/)  [<img src="https://image.flaticon.com/icons/png/512/732/732190.png" alt="Css" width="24">](https://www.w3schools.com/css/)  [<img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-on-yellow-11.png" alt="Js" width="24">](https://www.w3schools.com/js/default.asp)  [<img src="https://camo.githubusercontent.com/2eb688a747805c9acd144faf728c8a30f86fc4ca5fb39e6528232f0372151364/68747470733a2f2f63646e2e7261776769742e636f6d2f7075676a732f7075672d6c6f676f2f656563343336636565386664396431373236643738333963626539396431663639343639326330632f5356472f7075672d66696e616c2d6c6f676f2d5f2d636f6c6f75722d3132382e737667" alt="PugJs" width="24">](https://pugjs.org/api/getting-started.html)  [<img src="https://image.flaticon.com/icons/png/512/919/919831.png" alt="Sass" width="24">](https://sass-lang.com/)  [<img src="https://camo.githubusercontent.com/a664defdd5c2ec93a3fbfb51e0f2aaafa5dc57bf1e13aa47456ced037b3cebe8/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="Bootstrap" width="24">](https://getbootstrap.com/) [<img src="https://image.flaticon.com/icons/png/512/919/919851.png" alt="ReactJs" width="24">](https://reactjs.org/)  [<img src="https://img.stackshare.io/service/8846/preview.png" alt="Formik" width="24">](https://formik.org/)  [<img src="https://iconape.com/wp-content/png_logo_vector/tailwind-css-logo.png" alt="TailwindCss" width="24">](https://tailwindcss.com/) [<img src="https://redux.js.org/img/redux.svg" alt="Redux" width="24">](https://redux.js.org/) [<img src="https://avatars.githubusercontent.com/u/20658825?s=60&v=4" alt="Styled Components" width="24">](https://styled-components.com/) [<img src="https://avatars.githubusercontent.com/u/22632046?s=60&v=4" alt="Storybook" width="24">](https://storybook.js.org/) [<img src="https://spectrum.imgix.net/communities/4ac8919a-0e90-43ca-a909-83e4784cf377/ec973c38-5bcc-4d93-8848-f937ef9a3c6c-logo-square.png?w=256&h=256&dpr=2&auto=compress&expires=1619222400000&ixlib=js-1.3.0&s=0dd231cd068275cf9817f62604724531" alt="React Table" width="24">](https://react-table.tanstack.com/)
+ 
+### Tools 🛠️
+
+[<img src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" alt="GulpJs" width="24">](https://gulpjs.com/) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/)   [<img src="https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png" alt="NPM" width="24">](https://www.npmjs.com/) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) [<img src="https://prettier.io/icon.png" alt="Prettier" width="24">](https://prettier.io/)  [<img src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" alt="Eslint" width="24">](https://eslint.org/)  [<img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="Github" width="24">](https://github.com/)
+
+### Progress ⌛
+
+[<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" width="40" height="40">](https://www.typescriptlang.org/)
 <!--
-**magdyMohammed20/magdyMohammed20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Github Repos
 
-Here are some ideas to get you started:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+
+<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
+
+<a href="https://www.facebook.com/people/Magdy-Mohammed/100002594931715/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
+<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
+
+⭐️ From [@anandmainali](https://github.com/anandmainali)
 -->
