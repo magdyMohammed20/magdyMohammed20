@@ -25,7 +25,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Progress ⌛
 
-[<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" width="40" height="40">](https://www.typescriptlang.org/)
+[<img src="https://iconape.com/wp-content/files/mc/370910/svg/370910.svg" alt="Typescript" width="40" height="40">](https://www.typescriptlang.org/)
 <!--
 ### Github Repos
 
