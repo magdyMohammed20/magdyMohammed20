@@ -22,10 +22,10 @@ I have excellent design & coding skills, as well as an ability to convert requir
 ### Tools 🛠️
 
 [<img src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" alt="GulpJs" width="24">](https://gulpjs.com/) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/)   [<img src="https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png" alt="NPM" width="24">](https://www.npmjs.com/) [<img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" width="24">](https://git-scm.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) [<img src="https://prettier.io/icon.png" alt="Prettier" width="24">](https://prettier.io/)  [<img src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" alt="Eslint" width="24">](https://eslint.org/)  [<img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="Github" width="24">](https://github.com/)
+[<img src="https://iconape.com/wp-content/files/mc/370910/svg/370910.svg" alt="Typescript" width="40" height="40">](https://www.gatsbyjs.com/)
 
 ### Progress ⌛
 
-[<img src="https://iconape.com/wp-content/files/mc/370910/svg/370910.svg" alt="Typescript" width="40" height="40">](https://www.typescriptlang.org/)
 <!--
 ### Github Repos
 
