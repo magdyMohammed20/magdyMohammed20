@@ -28,7 +28,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 [<img src="https://iconape.com/wp-content/files/mc/370910/svg/370910.svg" alt="Typescript" width="40" height="40">](https://www.gatsbyjs.com/)
 
 ### Progress ⌛
-
+[<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" width="24">](https://reactnative.dev/)
 <!--
 ### Github Repos
 
