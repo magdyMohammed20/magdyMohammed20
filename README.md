@@ -29,7 +29,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Progress ⌛
 [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="Typescript" width="24">](https://www.typescriptlang.org/)
-[<img src="https://nodejs.org/static/images/logo.svg" alt="NodeJs" width="24">](https://nodejs.org/en/)
+[<img src="https://nodejs.org/static/images/logo.svg" alt="NodeJs">](https://nodejs.org/en/)
 
 <!--
 ### Github Repos
